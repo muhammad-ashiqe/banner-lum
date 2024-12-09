@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.banner{
+    position: relative;
+    background-image: url('https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png');
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    color: white;
+
+}
